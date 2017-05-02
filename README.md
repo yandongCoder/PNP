@@ -1,3 +1,2 @@
-# PNP
-## PNP is Not a Programmer缩写
+# PNP (PNP is Not a Programmer)
 致力做程序员潮牌
